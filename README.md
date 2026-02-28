@@ -1,2 +1,2 @@
-# razv-architecture-patterns-with-python
-Code of book Architecture Patterns with Python
+# Code and notes from book Architecture Patterns with Python
+
